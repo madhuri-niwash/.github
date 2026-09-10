@@ -92,7 +92,7 @@ The system follows a microservices-based architecture with the following compone
  - event.trigger
  - event.data
  - event.notify
-
+ - event.set
 
 ## Technology Stack
 

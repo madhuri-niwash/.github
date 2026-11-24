@@ -1,5 +1,26 @@
 # 🏠 Madhuri Niwash - Home Automation System
 
+## Working Repos
+ - git@github.com:madhuri-niwash/gateway.git (firwall certificates and all)
+ - git@github.com:madhuri-niwash/router.git (routes requests based on domain and path)
+ - git@github.com:madhuri-niwash/services.git (all services - admin, agreement, auth, cron, flag, github, iot, ip, misc, notify, power, wellknown)
+ - git@github.com:madhuri-niwash/webapp.git (java based web app)
+ - git@github.com:madhuri-niwash/eventbus.git (event bus to route all event to/from services controllers users-ui)
+ - git@github.com:madhuri-niwash/ui.git (react ui app)
+
+## Microcontrollers firmware repo
+ - git@github.com:madhuri-niwash/sona.git (new controller to replace motor gate and rooftop)
+ - git@github.com:madhuri-niwash/main-gate.git
+ - git@github.com:madhuri-niwash/motor-controller.git
+ - git@github.com:madhuri-niwash/rooftop-controller.git
+
+## Utilities repo
+ - git@github.com:madhuri-niwash/cicd.git (for my custom cicd)
+ - git@github.com:madhuri-niwash/react-local-proxy.git (for local ui development)
+ - git@github.com:madhuri-niwash/pcb.git (kicad pcb design)
+
+
+
 ## Overview
 
 Madhuri Niwash is a comprehensive home automation system designed to manage and control various smart devices in a residential environment. The system provides real-time monitoring, control, and automation capabilities for gates, motors, and other home appliances through a unified platform.
